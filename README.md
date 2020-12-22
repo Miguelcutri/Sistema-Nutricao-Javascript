@@ -1,0 +1,2 @@
+# Sistema-Nutricao-Javascript
+Sistema desenvolvido para Aparecida Nutricionista, projeto realizado para inserir e excluir clientes, além de calcular IMC através de uma tabela interativa. Foi utilizado: 1- Variáveis e operadores, 2- Arrays, loops e estilos, 3- Eventos, formulários e criação de elementos, 4-  Boas práticas com Javascript, 5- Validação de formulários, 6- Remoção, delegação e animação e 7- Filtros na tabela
